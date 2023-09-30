@@ -2,7 +2,7 @@
 
 - 🖊️: Curto muito aprender novas coisas e amo javinha ☕
 - 🎓: Tecnólogo em Sistemas para Internet | Fatec Jales
-- 💻: Desenvolvedor Java JR. | CDD IT - Service Innovation
+- 💻: Desenvolvedor Java | CDD IT - Service Innovation
 
 
 <p align="center">
