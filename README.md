@@ -20,7 +20,7 @@
     <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-292929?logo=Hibernate"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/Angular-750704?logo=angular&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-750704?logo=angular&logoColor=white"/>
     
 </div>
 
