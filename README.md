@@ -25,7 +25,7 @@
 
 <div align="center">
     
-[![Linkedin](https://img.shields.io/badge/Linkedin-%F0%9F%91%8B-fff?logo=linkedin&labelColor=006494)](https://www.linkedin.com/in/leonardo-delazari-899a3a163/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%F0%9F%91%8B-fff?logo=linkedin&labelColor=006494)](https://www.linkedin.com/in/leonardo-delazari/)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%F0%9F%91%8B-fff?logo=instagram&labelColor=833AB4&logoColor=white)](https://www.instagram.com/leo_delazari/)
 &nbsp;
