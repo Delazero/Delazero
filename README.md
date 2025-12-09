@@ -9,7 +9,7 @@
 ### 💻 **Linguagens e Frameworks**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delazero&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=4" alt="Delazero top langs"/>
+    <img src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=Delazero&theme=dracula&card_width=320&layout=compact" alt="Delazero top langs"/>
 </p>
 
 <div align="center">
